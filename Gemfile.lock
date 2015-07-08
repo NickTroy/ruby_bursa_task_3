@@ -57,6 +57,3 @@ DEPENDENCIES
   pry
   rspec
   rubocop
-
-BUNDLED WITH
-   1.10.4
